@@ -56,13 +56,13 @@ body{margin:0} #canvas-wrapper .content-wrapper {
     color:#333;
 }
 .home #canvas-wrapper #footer-home{
-    position:absolute;
-   bottom:0px;
-   right:0px;
-   box-sizing: border-box;
-   padding:25px;
-   text-align: right;
-   left:0px;
+    position: absolute;
+  margin: 25px;
+  bottom:0px;
+  right:0px;
+  left:0px;
+  padding:10px;
+  text-align: right;
 }
 .home #canvas-wrapper .nav{
     position:relative;
