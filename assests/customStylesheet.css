@@ -81,7 +81,7 @@ color:black;
 }
 @media screen and (max-width:576px){
     .home #canvas-wrapper .content-wrapper .social-wrapper {
-        margin:25px;
+        margin-to:10px;
     }
 }
 
