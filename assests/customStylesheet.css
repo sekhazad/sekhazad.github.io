@@ -1,0 +1,87 @@
+/*Index */
+#canvas-basic {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+body{margin:0} #canvas-wrapper .content-wrapper {
+    
+    text-align: center;
+    position: absolute;
+    margin-top:10rem;
+    right:0px;
+    left:0px;
+}
+.home #canvas-wrapper .content-wrapper .linkabout{
+    text-decoration: none;
+    color: black;
+}
+.description-wrapper .btn{
+    font-weight: 500;
+   
+}
+.home #canvas-wrapper .content-wrapper .social-wrapper .linkf .social-icon{
+    width:50px;
+    height:50px;
+    color:#3b5998;
+    margin: 20px 5px;
+}
+.home #canvas-wrapper .content-wrapper .social-wrapper .linki .social-icon{
+    width:50px;
+    height:50px;
+    margin: 20px 5px;
+    color:#e1306c;
+}
+.home #canvas-wrapper .content-wrapper .social-wrapper .linkt .social-icon{
+    width:50px;
+    height:50px;
+    margin: 20px 5px;
+    color: #1da1f2;
+}
+.home #canvas-wrapper .content-wrapper .social-wrapper .linkl .social-icon{
+    width:50px;
+    height:50px;
+    margin: 20px 5px;
+    color:#0077b5;
+}
+.home #canvas-wrapper .content-wrapper .social-wrapper .linkg .social-icon{
+    width:50px;
+    height:50px;
+    margin: 20px 5px;
+    color:#333;
+}
+.home #canvas-wrapper #footer-home{
+    position:absolute;
+   bottom:0px;
+   right:0px;
+   box-sizing: border-box;
+   padding:25px;
+   text-align: right;
+   left:0px;
+}
+.home #canvas-wrapper .nav{
+    position:relative;
+    margin:10px;
+    
+}
+.nav .nav-link{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nav >a{
+  color:black;
+}
+#footer-home>strong>a{
+color:black;
+}
+
+/**/
+/**/
+/**/
+/**/
+/**/

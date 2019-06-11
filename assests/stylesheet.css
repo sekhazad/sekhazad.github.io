@@ -1,0 +1,78 @@
+/*aboutme*/
+body{
+    margin:0px;
+    padding:0px;
+}
+#content-wrapper .header .nav{
+    margin:20px;
+}
+#content-wrapper .header .nav .nav-link{
+    margin:0px 10px;
+}
+.description .des{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#content-wrapper .inters .interso .interso-content{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.interso-content>p>a{
+color: black;
+}
+.interso-content>p>a:hover{
+    color:#027cff;
+}
+#content-wrapper .inters{
+    margin-top:25px;
+    margin-bottom:25px;
+}
+#content-wrapper .footer{
+   position: relative;
+   padding:20px;
+   text-align: right;
+   margin-top:325px;
+}
+#content-wrapper .footer footer>strong>a{
+    color:black;
+}
+
+/*Project page*/
+#content-wrapper .foote{
+    position: relative;
+    padding:20px;
+    text-align: right;
+   
+    /*margin-top:325px;*/
+ }
+ #content-wrapper .foote footer>strong>a{
+     color:black;
+ }
+#content-wrapper .content-prj{
+    margin-top:50px;
+}
+.content-prj .prj1,.prj2,.prj3
+,.prj4,.prj5{
+    margin-top:10px;
+    text-align: justify;
+}
+/*Media */
+@media (max-width: 768px){
+    #content-wrapper .content-prj{
+        margin-left: 10px;
+        margin-right: 10px;
+     width:auto;
+    }
+}
+
+/**prj_docs**/
+#content-wrapper .cnt-foo{
+    margin-top:25px;
+    padding:5px;
+}
+#content-wrapper .snp-con{
+    margin:15px;
+    padding:10px;
+}
