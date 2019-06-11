@@ -79,6 +79,11 @@ body{margin:0} #canvas-wrapper .content-wrapper {
 #footer-home>strong>a{
 color:black;
 }
+@media screen and (max-width:576px){
+    .home #canvas-wrapper .content-wrapper .social-wrapper {
+        margin:25px;
+    }
+}
 
 /**/
 /**/
