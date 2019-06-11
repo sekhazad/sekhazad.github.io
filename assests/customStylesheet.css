@@ -80,7 +80,7 @@ body{margin:0} #canvas-wrapper .content-wrapper {
 color:black;
 }
 @media screen and (max-width:576px){
-    .home #canvas-wrapper .content-wrapper .social-wrapper {
+    .home #canvas-wrapper #footer-home {
         margin-top:10px;
     }
 }
