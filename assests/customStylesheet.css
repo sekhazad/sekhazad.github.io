@@ -57,11 +57,11 @@ body{margin:0} #canvas-wrapper .content-wrapper {
 }
 .home #canvas-wrapper #footer-home{
     position: absolute;
-  margin: 15px;
+  margin: 10px;
   bottom:0px;
   right:0px;
   left:0px;
-  padding:10px;
+  padding:5px;
   text-align: right;
 }
 .home #canvas-wrapper .nav{
