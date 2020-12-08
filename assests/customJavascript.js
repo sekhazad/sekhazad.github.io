@@ -13,6 +13,16 @@ var granimInstance = new Granim({
     }
 });
 
+let forterTag=document.querySelector(`#footer-home strong`);
+forterTag.innerHTML=displayYear();
+
+function displayYear(){
+    let now =new Date();
+    const buildYear=2019;
+    let currentYear=now.getFullYear();
+    return `Created By SekhAzad <span>&#169;</span> ${buildYear}-${currentYear}`;
+}
+
 
 
 
